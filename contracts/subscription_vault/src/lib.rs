@@ -3515,6 +3515,8 @@ mod test_protocol_fee_routing;
 #[cfg(test)]
 mod test_do_vote_proposal;
 #[cfg(test)]
+mod test_do_execute_proposal;
+#[cfg(test)]
 mod test_treasury_split;
 #[cfg(test)]
 mod test_admin_treasury_change;
